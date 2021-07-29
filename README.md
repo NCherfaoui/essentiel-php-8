@@ -1,4 +1,4 @@
-# Nom final de la formation
+# L'essentiel de PHP 8.1
 Ce dossier Repository est lié au cours [L'essentiel de PHP 8.1][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
 
 ![L'essentiel de PHP 8.1](lil-thumbnail-url) 
