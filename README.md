@@ -26,7 +26,7 @@ La branche master correspond au code à la fin de la formation.
 
 **Julian LAYEN** 
 
- Retrouvez [Nom du formateur](https://www.linkedin.com/learning/instructors/) sur LinkedIn Learning.
+ Retrouvez [Julian LAYEN](https://www.linkedin.com/learning/instructors/) sur LinkedIn Learning.
 
 [lil-course-url]: 
 [lil-thumbnail-url]: 
