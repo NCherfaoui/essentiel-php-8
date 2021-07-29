@@ -3,7 +3,7 @@ Ce dossier Repository est lié au cours [L'essentiel de PHP 8.1][lil-course-url]
 
 ![L'essentiel de PHP 8.1](lil-thumbnail-url) 
 
-DESCRIPTION DE LA FORMATION
+Formation sur l'utilisation de PHP 8.1.
 
 ## Instructions
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter /tree/BRANCH_NAME à l’URL afin d’accéder à la branche qui vous intéresse. 
