@@ -1,7 +1,7 @@
-# L'essentiel de PHP 8.1
-Ce dossier Repository est lié au cours [L'essentiel de PHP 8.1][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
+# L'essentiel de PHP 8
+Ce dossier Repository est lié au cours [L'essentiel de PHP 8][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
 
-![L'essentiel de PHP 8.1](lil-thumbnail-url) 
+![L'essentiel de PHP 8](lil-thumbnail-url) 
 
 Avec Julian Layen, partez à la découverte de PHP 8, le langage de programmation et de développement de pages web dynamiques. Après avoir installé et configuré les outils et l'environnement indispensables, vous allez créer et exécuter votre premier fichier PHP, puis vous découvrirez les fonctions, les types et les variables. Vous aborderez également les tableaux et vous manipulerez les boucles, les fonctions et les dates, avant de passer aux formulaires et aux fichiers, à la gestion des cookies et à la mise en œuvre des classes. À la fin de cette formation, vous aurez toutes les clés en main pour programmer avec PHP.
 
