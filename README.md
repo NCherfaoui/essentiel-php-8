@@ -3,7 +3,7 @@ Ce dossier Repository est lié au cours [L'essentiel de PHP 8.1][lil-course-url]
 
 ![L'essentiel de PHP 8.1](lil-thumbnail-url) 
 
-Formation sur l'utilisation de PHP 8.1.
+Avec Julian Layen, partez à la découverte de PHP 8, le langage de programmation et de développement de pages web dynamiques. Après avoir installé et configuré les outils et l'environnement indispensables, vous allez créer et exécuter votre premier fichier PHP, puis vous découvrirez les fonctions, les types et les variables. Vous aborderez également les tableaux et vous manipulerez les boucles, les fonctions et les dates, avant de passer aux formulaires et aux fichiers, à la gestion des cookies et à la mise en œuvre des classes. À la fin de cette formation, vous aurez toutes les clés en main pour programmer avec PHP.
 
 ## Instructions
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter /tree/BRANCH_NAME à l’URL afin d’accéder à la branche qui vous intéresse. 
