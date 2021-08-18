@@ -28,5 +28,5 @@ La branche master correspond au code à la fin de la formation.
 
  Retrouvez [Julian LAYEN](https://www.linkedin.com/learning/instructors/julian-layen) sur LinkedIn Learning.
 
-[lil-course-url]: 
-[lil-thumbnail-url]: 
+[https://www.linkedin.com/learning/l-essentiel-de-php-8/bienvenue-dans-l-essentiel-de-php-8-1]: 
+[https://cdn.lynda.com/course/2415723/2415723-1628675740755-16x9.jpg]: 
