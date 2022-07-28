@@ -1,6 +1,6 @@
 # L'essentiel de PHP 8
 
-Ce dossier Repository est lié au cours [L'essentiel de PHP 8](https://www.linkedin.com/learning/l-essentiel-de-php-8/bienvenue-dans-l-essentiel-de-php-8-1). Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
+Ce dossier Repository est lié au cours `L'essentiel de PHP 8`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![L'essentiel de PHP 8](https://cdn.lynda.com/course/2415723/2415723-1628675740755-16x9.jpg) 
 
