@@ -27,7 +27,7 @@ La branche master correspond au code à la fin de la formation.
 
 ### Instructeur
 
-**Julian LAYEN** 
+**Julian Layen** 
 
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
