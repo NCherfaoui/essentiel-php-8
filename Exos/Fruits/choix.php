@@ -20,7 +20,7 @@ if (isset($_POST['choix']) && !empty($_POST['choix'])) {
     echo "</ul>";
 } else {
     echo "Aucun fruit n'est sélectionné";
-    // echo "Aucun fruit n'est sélectionné";
+   
 
 }
 

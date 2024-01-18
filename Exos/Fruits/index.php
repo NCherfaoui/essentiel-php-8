@@ -18,17 +18,18 @@
     <input type="submit">
   </form><br><br><br>
   <form action ="index.php" method="POST">
-    <input type="text" name="newf">
+    <input type="text" name="newf" required>
     <input type="submit" value="Ajout fruit">
   </form>
   <?php
-  require_once("functions.php");
+ 
 
 
    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-       if (isset($_POST["newf"])) {
+   
+    
+       if (isset($_POST["newf"]) ) {
 
-           // Add the new fruit to the file and display it in the form
            $newfruit = $_POST["newf"];
            $choix[] = $newfruit;
            $fh = fopen($filename, "a");
@@ -37,9 +38,23 @@
           
        }
 
-       // Redirect to the results page
-       header("Location: results.php?choix=" . urlencode(implode(",", $choix)));
-       exit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      //  header("Location: results.php?choix=" . urlencode(implode(",", $choix)));
+      //  exit;
    }
 
 ?>
